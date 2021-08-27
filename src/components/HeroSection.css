@@ -18,13 +18,13 @@ video {
 }
 
 .hero-container > h1 {
-  /* color: #fff; */
+  color: #fff;
   font-size: 100px;
   margin-bottom: -100px;
 }
 .hero-container > P {
   margin-top: 100px;
-  /* color: #fff; */
+  color: #fff;
   font-size: 32px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
