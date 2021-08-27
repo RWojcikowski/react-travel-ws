@@ -11,7 +11,7 @@ function Card() {
                     <ul className="cards__items">
                         <CardItem
                             src=" images/img-9.jpg"
-                            text="explore the hidden watterfal deepinside the Amazon Jungle"
+                            text="Explore the hidden watterfal deepinside the Amazon Jungle"
                             label='Adventure'
                             path='/services'
                         />
@@ -25,19 +25,19 @@ function Card() {
                     <ul className="cards__items">
                         <CardItem
                             src=" images/img-4.jpg"
-                            text="maybe you want to play football on a pitch situated on a beautiful rocky island"
+                            text="Maybe you want to play football on a pitch situated on a beautiful rocky island"
                             label='Sport'
                             path='/services'
                         />
                         <CardItem
                             src=" images/img-8.jpg"
-                            text="see a real desert with your own eyes"
+                            text="See a real desert with your own eyes"
                             label='Travel'
                             path='/services'
                         />
                         <CardItem
                             src=" images/img-5.jpg"
-                            text="visit the best fashion houses in Italy"
+                            text="Visit the best fashion houses in Italy"
                             label='Luxry'
                             path='/services'
                         />
