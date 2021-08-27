@@ -36,12 +36,11 @@ function Card() {
                             path='/services'
                         />
                         <CardItem
-                            src=" images/img-8.jpg"
+                            src=" images/img-5.jpg"
                             text="visit the best fashion houses in Italy"
                             label='Luxry'
                             path='/services'
                         />
-
                     </ul>
                 </div>
             </div>
