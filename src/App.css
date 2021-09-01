@@ -17,20 +17,20 @@
 }
 
 .services {
-  /* background-image: url('/images/img-2.jpg'); */
+  /* background-image: url('/images/pic-2.jpg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #282828;
   font-size: 100px;
 }
 
 .products {
-  /* background-image: url('/images/img-1.jpg'); */
+  /* background-image: url('/images/pic-1.jpg'); */
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #282828;
   font-size: 100px;
 }
 
@@ -39,6 +39,6 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #282828;
   font-size: 100px;
 }

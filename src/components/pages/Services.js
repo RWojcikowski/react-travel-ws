@@ -1,8 +1,6 @@
 import React from 'react';
-import '../../App';
+import '../../App.css';
 
-export default function Services() {
-    return <h1 className='services'> SERVICES
-    </h1>;
-
+export default function SignUp() {
+    return <h1 className='sign-up'>SERVICES</h1>;
 }
